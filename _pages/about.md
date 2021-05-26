@@ -11,7 +11,7 @@ featured_image: /images/adityakoolkarni.jpg
 
 ## Currently Working On:
 
-Building Computer Vision Systems at Qualcomm, San Diego. I'm also working on a review article on "Essays on the Gita".  
+Building Computer Vision Systems at Qualcomm, San Diego. Review article on "Essays on the Gita, Aurobindo Ghose".  
 
 
 --------------------------
