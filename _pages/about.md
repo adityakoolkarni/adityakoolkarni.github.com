@@ -2,33 +2,37 @@
 title: About Me
 subtitle: 
 description: Engineering, Philosophy and Writing
-featured_image: /images/aditya_pic.jpg
+featured_image: /images/adityakoolkarni.jpg
 ---
 
 
-**Passionate about Web Accessibility & Sustainability.**
+**Passionate about Computer Vision & Philosophy.**
 
 
 ## Currently Working On:
+
+Building Computer Vision Systems at Qualcomm, San Diego. Review article on "Essays on the Gita, Aurobindo Ghose".  
 
 
 --------------------------
 
 ## Previous Work:
 
-* 
+* **2019 - 2020** : MS, Intelligent Systems Robotics and Control, UC San Diego.
+* **2017 - 2019** : Hardware Design Engineer, MediaTek, Bangalore.
+* **2013 - 2017** : BS, Electronics and Communication Engineering, RVCE, Bangalore.
+
 
 ----------------------
 
 
-**EDIT, June 2020: Finished the courses, considering going for the IAAP WAS Certification.**
+
 
 <br>
-Born in 1995 in Hubli..
 
 <br>
 
 ---------
 
-You can find me on [GitHub](https://github.com/adityakoolkarni) and [Twitter](https://twitter.com/adityaakulkarni).  
-If you're oldfashioned you can [send me an email](mailto:adityakulkarni1000@gmail.com) though I can't guarantee a prompt response, it's a mess and things tend to get lost there.
+You can find me on [LinkedIn](https://www.linkedin.com/in/aditya-r-kulkarni/), [GitHub](https://github.com/adityakoolkarni) and [Twitter](https://twitter.com/adityaakulkarni).  
+You can [send me an email](mailto:adityakulkarni1000@gmail.com).
